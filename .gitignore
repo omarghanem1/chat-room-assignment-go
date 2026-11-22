@@ -1,0 +1,5 @@
+/chat-server
+/chat-client
+*.exe
+*.test
+
